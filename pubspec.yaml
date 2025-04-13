@@ -1,0 +1,12 @@
+name: json_model_mapper
+description: >
+  A simple annotation package used to mark model classes for code generation.
+  Designed to work with the `json_model_mapper_gen` generator package to create immutable data models automatically.
+
+version: 0.0.1
+homepage: https://github.com/vishalkaklotar/json_model_mapper
+repository: https://github.com/vishalkaklotar/json_model_mapper
+issue_tracker: https://github.com/vishalkaklotar/json_model_mapper/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"

@@ -1,0 +1,3 @@
+class JsonModelMapper {
+  const JsonModelMapper();
+}
